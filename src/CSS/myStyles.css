@@ -1,0 +1,33 @@
+body{
+    background-color: #d8bdd8;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+/* .primary{
+    background-color: plum;
+}
+
+.font-color{
+    color:red;
+} */
+
+/* .container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+} */
+
+.form{
+    height:400px;
+    width: 300px;
+    background-color: #FFF;
+    border-radius: 10px;
+    border:5px solid#000;
+    justify-content: center;
+}
+
+.item{
+    margin-block:10px;
+}
